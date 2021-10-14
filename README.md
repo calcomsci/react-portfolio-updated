@@ -1,6 +1,6 @@
 # react-portfolio-updated
 
-This is a ReactJS portfolio site. Please download the entire repository and do the following:
+This is a ReactJS portfolio site. Please download the entire repository and do the following if you're not quite sure where to start:
 
 Download and install Visual Studio Code
 
