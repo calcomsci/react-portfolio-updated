@@ -26,6 +26,6 @@ Wait for the installation to finish
 
 Once the installation is finished, type in "npm start"
 
-Your browser should open and you should be able to view the portfolio's contents
+Your browser should open and you should be able to view the portfolio's contents, as shown in the screenshot above
 
 
